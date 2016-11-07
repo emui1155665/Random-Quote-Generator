@@ -1,0 +1,44 @@
+.title {
+  color: blue;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+  opacity: 0.6;
+}
+
+body {
+  background: red;
+  background: linear-gradient(to right,  #b3ffe6
+ ,  #33ccff
+);
+  
+}
+
+.info {
+  padding-top:5px;
+  font-family: Serif;
+  font-size:15px;
+  padding-bottom:5px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom:20px;
+}
+
+.btn{
+  text-align:center;
+}
+button{
+  border-radius:5px;
+  opacity:0.8;
+  background-color:#33ccff;
+  font-size:20px;
+}
+
+.text {
+  padding-left: 30px;
+  padding-right: 30px;
+  color: darkblue;
+  font-family: Serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 8px white;
+}
